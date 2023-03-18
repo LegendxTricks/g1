@@ -2,8 +2,8 @@ import telegram
 import csv
 
 # Replace the following with your own Telegram API key and channel name
-api_key = 'YOUR_API_KEY'
-channel_name = 'YOUR_CHANNEL_NAME'
+api_key = '5924693666:AAHvXt3It2g_3GajCYTCyXRT86aA8Fj9LTs'
+channel_name = 'alert_scammer'
 
 # Initialize the Telegram bot using the API key
 bot = telegram.Bot(api_key)
